@@ -1,7 +1,7 @@
 heat_template_version: 2018-08-31
 
 description: |
-  Heat template to deploy a MySQL database instance and a WordPress web instance on Ubuntu
+  Heat template to deploy a MySQL database instance and a WordPress web instance on Ubuntu 22.04
   
 parameters:
   image:
